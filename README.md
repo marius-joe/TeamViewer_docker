@@ -11,9 +11,10 @@
 <br/>
 <br/>
 TeamViewer license: Freemium - free only for private use<br/>
-https://www.teamviewer.com/en/eula/<br/>
+https://www.teamviewer.com/en/eula/
+<br/>
+Extract from the TeamViewer EULA:
 
-Extract from the TeamViewer EULA:<br/>
-3.4. Scope of use for (TeamViewer) Freemium-Software<br/>
+3.4. Scope of use for (TeamViewer) Freemium-Software
 The use of the Freemium-Software is solely permitted for the user’s own, private, non-commercial purposes (e.g. free computer support for a spouse/partner). The use of the Freemium-Software for the exercise of the user’s own trade or profession or the use for purposes for which the user directly or indirectly receives compensation (team work with colleagues, free support provided to third parties which have bought software of the user) does not qualify as private use.
 
