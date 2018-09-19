@@ -3,6 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/marius-joe/TeamViewer_docker/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/marius-joe/TeamViewer_docker.svg)](https://github.com/marius-joe/TeamViewer_docker/issues/)
 [![GitHub license](https://img.shields.io/github/license/marius-joe/TeamViewer_docker.svg)](https://github.com/marius-joe/TeamViewer_docker/blob/master/LICENSE)
+[![Status](https://img.shields.io/badge/Status-in%20progress-red.svg)](https://github.com/marius-joe/TeamViewer_docker/graphs/commit-activity)
 
 *[coming soon]*
 
